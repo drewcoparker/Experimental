@@ -21,4 +21,13 @@ class SketchupFlags
 
   end
 
+  def startexe(cmd)
+
+    @cmd = cmd
+    pid = Process.spawn(cmd)
+    supid = 1 + pid.to_int
+    Process.waitpid(supid)
+
+  end
+
 end
