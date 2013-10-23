@@ -3,6 +3,8 @@
 # for the results.  Reads all input files from a "Models" subdirectory and 
 # runs the test 3x and average the results.
 
+require_relative 'sketchup_flags'
+
 if RUBY_PLATFORM.downcase.include? 'mingw32'
   @platform = 'win'    
   exe13 = 'C:\Program Files (x86)\SketchUp\SketchUp 2013\SketchUp.exe'
@@ -136,8 +138,10 @@ def run_timing_tests(exe, model_directory, results_file = "", script = "", runs 
 
         while i < runs do
 
-          system(cmd)
-          puts "Run number " + run_number.to_s
+          #system(cmd)
+          #puts "Run number " + run_number.to_s
+
+          SketchupFlags.startexe(cmd)
 
           # NOTE: the timing.txt file has the following format
           # total frames, total time(sec),seconds per frame ,frame per seconds
