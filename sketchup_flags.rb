@@ -3,7 +3,7 @@
 
 class SketchupFlags
 
-  def maccmdflags(cmd, flag1, flag2, flag3)
+  def initialize(cmd, flag1, flag2, flag3)
 
     @cmd = cmd
     @flag1 = flag1
