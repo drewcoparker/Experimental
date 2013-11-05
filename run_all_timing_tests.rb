@@ -78,7 +78,7 @@ def run_timing_tests(exe, model_directory, results_file = "", script = "", runs 
   case  
      when @platform == 'win'
       files.each do |current_file|
-        cmd =  '"' + exe + '"' + script_cmd + timing + current_file
+        cmd =  '"' + exe + '"' + script_cmd + timing + '"' + current_file + '"'
         
         puts "cmd = " + cmd
 

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run_all_timing_tests.rb" afterPath="$PROJECT_DIR$/run_all_timing_tests.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sketchup_flags.rb" afterPath="$PROJECT_DIR$/sketchup_flags.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Experimental.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" time="1382552794280" ignored="false" />
-    <file path="/sketchup_flags.rb" changelist="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" time="1381953808403" ignored="false" />
+    <file path="/Dummy.txt" changelist="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" time="1383692015749" ignored="false" />
+    <file path="/sketchup_flags.rb" changelist="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" time="1382557083755" ignored="false" />
     <file path="/run_all_timing_tests.rb" changelist="0e1b7654-ab23-4fb3-82a3-098e59bdad3a" time="1381954466294" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,19 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="run_all_timing_tests.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="run_all_timing_tests.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="35" selection-start="4259" selection-end="4259" vertical-scroll-proportion="0.0">
+            <state line="80" column="79" selection-start="2707" selection-end="2707" vertical-scroll-proportion="0.3642384">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sketchup_flags.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sketchup_flags.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sketchup_flags.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6357616">
+            <state line="5" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -64,8 +66,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/run_all_timing_tests.rb" />
         <option value="$PROJECT_DIR$/sketchup_flags.rb" />
+        <option value="$PROJECT_DIR$/run_all_timing_tests.rb" />
       </list>
     </option>
   </component>
@@ -273,7 +275,6 @@
     <frame x="49" y="22" width="1391" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -288,6 +289,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -364,6 +366,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sketchup_flags.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sketchup_flags.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="35" selection-start="4259" selection-end="4259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sketchup_flags.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -420,14 +464,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run_all_timing_tests.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="35" selection-start="4259" selection-end="4259" vertical-scroll-proportion="0.0">
+        <state line="80" column="79" selection-start="2707" selection-end="2707" vertical-scroll-proportion="0.3642384">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sketchup_flags.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="412" selection-end="412" vertical-scroll-proportion="0.6357616">
+        <state line="5" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
